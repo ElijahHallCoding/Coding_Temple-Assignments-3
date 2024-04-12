@@ -1,6 +1,6 @@
 # The Adventure Game: Task 1
 
-while True: # Added for TESTING CONVENIENCE code without needing to leave terminal
+while True: # Added for CODE TESTING CONVENIENCE  without needing to leave terminal
 
 # Beginning of Code Correction
     place = input("Choose a place: forest or cave? ") # User Input
